@@ -47,8 +47,8 @@ body {
   background-color:rgb(23, 23, 23);
   color:white;
   transition: all 0.2s ease;
-  right:350px;
-  top:500px;
+  right:425px;
+  top:525px;
 
 }
 
@@ -62,8 +62,8 @@ body {
   background-color:rgb(23, 23, 23);
   color:white;
   transition: all 0.2s ease;
-  left:350px;
-  top:500px;
+  left:425px;
+  top:525px;
   
 }
 #tweet-quote:hover,#new-quote:hover {
