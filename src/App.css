@@ -37,7 +37,7 @@ body {
 }
 
 #new-quote {
-  position:absolute;
+  position:relative;
   float:right;
   padding:10px;
   border-radius: 10px;
@@ -47,13 +47,14 @@ body {
   background-color:rgb(23, 23, 23);
   color:white;
   transition: all 0.2s ease;
-  right:425px;
-  top:525px;
+  top:100px;
+  right:-275px;
+
 
 }
 
 #tweet-quote {
-  position:absolute;
+  position:relative;
   padding:10px;
   border-radius: 10px;
   width:160px;
@@ -62,8 +63,9 @@ body {
   background-color:rgb(23, 23, 23);
   color:white;
   transition: all 0.2s ease;
-  left:425px;
-  top:525px;
+  top:25px;
+  right:138px;
+
   
 }
 #tweet-quote:hover,#new-quote:hover {

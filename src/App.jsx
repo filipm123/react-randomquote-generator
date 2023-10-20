@@ -45,8 +45,8 @@ function Card() {
       </button>
 
       {/*TODO:ADD TWEET FUNCTIONALITY*/}
-      <TwitterShareButton url={shareUrl} title={title}>
-        <button id="tweet-quote">Tweet</button>
+      <TwitterShareButton id="tweet-quote" url={shareUrl} title={title}>
+        <button id="tweet-quote" >Tweet</button>
       </TwitterShareButton>
     </div>
   );
