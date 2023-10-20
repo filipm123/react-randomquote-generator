@@ -24,6 +24,7 @@ body {
   position: relative;
   text-align: center;
   padding:30px;
+  min-height:120px;
  
 
 }
@@ -31,7 +32,7 @@ body {
 #author {
    font-size:24px;
    position :relative;
-  padding:20px;
+
    font-weight: normal;
    line-height: 24px;
 }
@@ -47,7 +48,7 @@ body {
   background-color:rgb(23, 23, 23);
   color:white;
   transition: all 0.2s ease;
-  top:100px;
+  top:11vh;
   right:-275px;
 
 
@@ -63,7 +64,7 @@ body {
   background-color:rgb(23, 23, 23);
   color:white;
   transition: all 0.2s ease;
-  top:25px;
+  top:3vh;
   right:138px;
 
   
